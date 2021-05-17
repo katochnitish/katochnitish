@@ -25,7 +25,7 @@
 
 - 💞️ All the repositories are under construction and will be soon available with detailed informations
 - 📫 For any information, suggestion, and/or collaboration. Please reach me at katoch.sliet@gmail.com
-- 
+
 <hr style="border:1px solid black"> </hr>
 <!---
 katochnitish/katochnitish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
