@@ -5,7 +5,7 @@
 **Primary Research Topics**
 
 **Electrical and magnetic properties of the brain**
--Explore electrical and magnetic properties of brain and novel contrast mechanism for future brain imaging
+- Explore electrical and magnetic properties of brain and novel contrast mechanism for future brain imaging
 
 
 <hr style="border:1px solid black"> </hr>
