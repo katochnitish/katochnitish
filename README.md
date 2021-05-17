@@ -10,6 +10,7 @@
 - Diffusion- Magnetic resonance eletrical impedance tomography (DT-MREIT)
 - Magnetic resonance eletrical impedance tomography (MREIT)
 - Magnetic resonance current density imaging (MRCDI)
+- Quantitative susceptibility weighted imaging (QSWI)
 
 **Electrical stimulation modalities**
 - tDCS, tMS, and tACS
