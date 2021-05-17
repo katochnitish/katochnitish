@@ -1,6 +1,6 @@
 **Hello**
 
-**I’m Nitish Katoch and I work for [Impedance Imaging Research Center (IIRC)](https://iirc.khu.ac.kr/), College of Medicine, [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), Seoul, South Korea. I am interested in MRI and MR-based imaging techniques. I am a PhD. in Biomedical Engineering and I mostly works on MR based conductivity imaging. I’m currently learning ML, and QSM.**
+**I’m Nitish Katoch and I work for [Impedance Imaging Research Center (IIRC)](https://iirc.khu.ac.kr/), College of Medicine, [Kyung Hee University](https://www.khu.ac.kr/eng/main/index.do), Seoul, South Korea. Interested in MRI and MR-based imaging techniques. I am a PhD. in Biomedical Engineering and mostly works on MR based conductivity imaging. I’m currently learning ML, and QSM.**
 
 **Primary Research Topics**
 
