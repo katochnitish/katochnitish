@@ -5,12 +5,12 @@
 **Primary Research Topics**
 
 **Electrical and magnetic properties of the brain**
-- Explore electrical and magnetic properties of brain and novel contrast mechanism for future brain imaging
+- Explore electrical and magnetic properties of brain and novel contrast mechanism for future brain imaging (Quantitative conductivity mapping-QCM)
 - Conductivity tensor imaging (CTI)
 - Diffusion- Magnetic resonance eletrical impedance tomography (DT-MREIT)
 - Magnetic resonance eletrical impedance tomography (MREIT)
 - Magnetic resonance current density imaging (MRCDI)
-- Quantitative susceptibility weighted imaging (QSWI)
+- Quantitative susceptibility mapping (QSM)
 
 **Electrical stimulation modalities**
 - tDCS, tMS, and tACS
